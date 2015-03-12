@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>chess pics/Chess-Bishop-icon.png</file>
+        <file>chess pics/Chess-Bishop-icon(white).png</file>
+        <file>chess pics/Chess-King-icon.png</file>
+        <file>chess pics/Chess-King-icon(white).png</file>
+        <file>chess pics/Chess-Knight-icon.png</file>
+        <file>chess pics/Chess-Knight-icon(white).png</file>
+        <file>chess pics/Chess-Pawn-icon.png</file>
+        <file>chess pics/Chess-Pawn-icon(white).png</file>
+        <file>chess pics/Chess-Queen-icon.png</file>
+        <file>chess pics/Chess-Queen-icon(white).png</file>
+        <file>chess pics/Chess-Rook-icon.png</file>
+        <file>chess pics/Chess-Rook-icon(white).png</file>
+        <file>chess pics/20130512060738772_easyicon_net_64.png</file>
+    </qresource>
+</RCC>

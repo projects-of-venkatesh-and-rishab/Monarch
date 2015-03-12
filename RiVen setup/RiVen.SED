@@ -1,0 +1,45 @@
+[Version]
+Class=IEXPRESS
+SEDVersion=3
+[Options]
+PackagePurpose=ExtractOnly
+ShowInstallProgramWindow=0
+HideExtractAnimation=0
+UseLongFileName=1
+InsideCompressed=0
+CAB_FixedSize=0
+CAB_ResvCodeSigning=0
+RebootMode=I
+InstallPrompt=%InstallPrompt%
+DisplayLicense=%DisplayLicense%
+FinishMessage=%FinishMessage%
+TargetName=%TargetName%
+FriendlyName=%FriendlyName%
+AppLaunched=%AppLaunched%
+PostInstallCmd=%PostInstallCmd%
+AdminQuietInstCmd=%AdminQuietInstCmd%
+UserQuietInstCmd=%UserQuietInstCmd%
+SourceFiles=SourceFiles
+[Strings]
+InstallPrompt=Would like to install the game on your computer?
+DisplayLicense=
+FinishMessage=The game is finally installed on your computer..Have fun...
+TargetName=F:\RiVen setup\RiVen.EXE
+FriendlyName=RiVen
+AppLaunched=
+PostInstallCmd=
+AdminQuietInstCmd=
+UserQuietInstCmd=
+FILE0="libgcc_s_dw2-1.dll"
+FILE1="mingwm10.dll"
+FILE2="QtCored4.dll"
+FILE3="QtGuid4.dll"
+FILE4="RiVen.exe"
+[SourceFiles]
+SourceFiles0=F:\RiVen\
+[SourceFiles0]
+%FILE0%=
+%FILE1%=
+%FILE2%=
+%FILE3%=
+%FILE4%=
